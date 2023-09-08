@@ -1,8 +1,9 @@
 <div align="center">
-<img style="border-radius:20px;" alt="coding gif" width="200" src="https://i.gifer.com/43KV.gif" />
+<kbd><img alt="coding gif" width="200" src="https://s11.gifyu.com/images/S42yt.gif"/></kbd>
 </div>
 
 <h1 align="center">Hi 👋, I am Naval Kumar</h1>
+
 <h3 align="center">Software Engineer by Profession/ Fitness Enthusiast by Passion💪</h3>
 <h4 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> Consultant at KPMG Australia</h4>
 
