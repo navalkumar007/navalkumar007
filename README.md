@@ -60,15 +60,14 @@ I am inquisitive by nature about all things technology. Creating content has alw
 <div align="center">
 
 ![Naval's GitHub stats](https://raw.githubusercontent.com/navalkumar007/github-stats/08b7487a6cf2f1dd0c71fecfb03d161b0bb32140/stats.svg)&nbsp;
-
 ![Naval's Top Langs](https://raw.githubusercontent.com/navalkumar007/github-stats/3bccdf2c43da2ba78efae0ca6663b9bacb2a2596/langs.svg)
 
 
 <!-- Original url from the upstream repo, without Github Action for caching. -->
 <!-- <img  src="https://github-stats-navalkumar007.vercel.app/api?username=navalkumar007&rank_icon=github&hide=stars,issues&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="navalkumar007" />
 &nbsp;
-<img src="https://github-stats-navalkumar007.vercel.app/api/top-langs/?username=navalkumar007&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="navalkumar007" />
-</div> -->
+<img src="https://github-stats-navalkumar007.vercel.app/api/top-langs/?username=navalkumar007&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="navalkumar007" /> -->
+</div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=navalkumar007&include_all_commits=true&count_private=true&theme=gotham&hide_border=true"  alt="navalkumar007"/></p>
 
