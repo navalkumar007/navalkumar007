@@ -69,7 +69,12 @@ I am inquisitive by nature about all things technology. Creating content has alw
 <img src="https://github-stats-navalkumar007.vercel.app/api/top-langs/?username=navalkumar007&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="navalkumar007" /> -->
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=navalkumar007&include_all_commits=true&count_private=true&theme=gotham&hide_border=true"  alt="navalkumar007"/></p>
+<!-- Original url from the upstream repo, without Github Action for caching. -->
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=navalkumar007&include_all_commits=true&count_private=true&theme=gotham&hide_border=true"  alt="navalkumar007"/></p> -->
+<div align="center">
+  
+  ![Naval's Streak](https://raw.githubusercontent.com/navalkumar007/github-stats/b7ec87fc1307d4f9b67b2e8c545c6df678c87dd7/streaks.svg)
+</div>
 
 ## 🏆 GitHub Trophies
 
