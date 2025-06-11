@@ -47,8 +47,8 @@ I am inquisitive by nature about all things technology. Creating content has alw
 <!-- YOUTUBE:START-->
 - [I trained a LoRA Model of myself and these were the results!](https://www.youtube.com/watch?v=RlR47JnoK0k)
 - [I Scraped My Local News Website ft.@fijivillage](https://www.youtube.com/watch?v=8sqo4jvDQ0M)
-- [Did you know? Cursor Control #shorts  #techtips  #textingtips](https://www.youtube.com/watch?v=ruZnENZMV68)
-- [Flow Theory In 60 Seconds #shorts](https://www.youtube.com/watch?v=jSRL4dkrsjY)
+- [Did you know? Cursor Control #shorts  #techtips  #textingtips](https://www.youtube.com/shorts/ruZnENZMV68)
+- [Flow Theory In 60 Seconds #shorts](https://www.youtube.com/shorts/jSRL4dkrsjY)
 - [I Made A Simple Image Compressor Using Angular &amp; .NET Core](https://www.youtube.com/watch?v=hS2Np5ERbC0)
 <!-- YOUTUBE:END-->
 
