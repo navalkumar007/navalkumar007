@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Code Thugs - Music Track #shorts #music #developers #ai #technology](https://www.youtube.com/shorts/ZME5ZErLNR4)
+- [Neon Pulse - Music Track #shorts #music #developers #ai #rock](https://www.youtube.com/shorts/IsfObZ6Ry2c)
+- [Gangsta Devs - Music Track #shorts #music #developers #ai](https://www.youtube.com/shorts/FlkeIHSuEy8)
 - [Code Burn - Music Track #shorts](https://www.youtube.com/shorts/FxTL0xPh1ws)
 - [I trained a LoRA Model of myself and these were the results!](https://www.youtube.com/watch?v=RlR47JnoK0k)
-- [I Scraped My Local News Website ft.@fijivillage](https://www.youtube.com/watch?v=8sqo4jvDQ0M)
-- [Did you know? Cursor Control #shorts  #techtips  #textingtips](https://www.youtube.com/shorts/ruZnENZMV68)
-- [Flow Theory In 60 Seconds #shorts](https://www.youtube.com/shorts/jSRL4dkrsjY)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
