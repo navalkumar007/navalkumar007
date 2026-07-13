@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
-- [I Code Pacific - Music Track #song  #fiji](https://www.youtube.com/watch?v=5Fl3VLl9VD8)
-- [Code Thugs - Music Track #shorts #music #developers #ai #technology](https://www.youtube.com/shorts/ZME5ZErLNR4)
-- [Neon Pulse - Music Track #shorts #music #developers #ai #rock](https://www.youtube.com/shorts/IsfObZ6Ry2c)
-- [Gangsta Devs - Music Track #shorts #music #developers #ai](https://www.youtube.com/shorts/FlkeIHSuEy8)
-- [Code Burn - Music Track #shorts](https://www.youtube.com/shorts/FxTL0xPh1ws)
+- [Rise and shine - Music Track #shorts #motivational](https://www.youtube.com/shorts/o9k1FJ4yaA4)
+- [Clockwork silence - Music Track #shorts #ai](https://www.youtube.com/shorts/uyY26kCeQuM)
+- [Whispers in the dark - Music Track #shorts #lovesong #ai](https://www.youtube.com/shorts/DvhuLOW61ec)
+- [Code grind - Music Track #shorts #ai #developers #rap](https://www.youtube.com/shorts/_d8kXQnVf9o)
+- [Clockwork ghost - Music Track #shorts #ai #western](https://www.youtube.com/shorts/sgSgfubcnZg)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
