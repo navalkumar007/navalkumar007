@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
-- [Suno Na &lpar;Hindi&rpar; - Travel Music Track #music #travel](https://www.youtube.com/watch?v=TM2zn-gRouY)
+- [Midnight Hustle - Music Track #shorts #motivational #music](https://www.youtube.com/shorts/MGiIIHe0SG8)
+- [Suno Na &lpar;Hindi&rpar; - Travel Music Track #music #travel #hindisong](https://www.youtube.com/watch?v=TM2zn-gRouY)
 - [Rise and shine - Music Track #shorts #motivational #music](https://www.youtube.com/shorts/o9k1FJ4yaA4)
 - [Clockwork silence - Music Track #shorts #music](https://www.youtube.com/shorts/uyY26kCeQuM)
 - [Whispers in the dark - Music Track #shorts #lovesong #music](https://www.youtube.com/shorts/DvhuLOW61ec)
-- [Code grind - Music Track #shorts #developers #music](https://www.youtube.com/shorts/_d8kXQnVf9o)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
