@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [God Friendly #shorts #music  #electronic  #developers](https://www.youtube.com/shorts/qzJsdLC4enk)
+- [Be Legendary #shorts #music](https://www.youtube.com/shorts/akbypJA1n1Q)
+- [Midnight Billionaire #shorts #music #money #motivation](https://www.youtube.com/shorts/6z5nNJhyR40)
+- [Battlefield #shorts #music #electronic](https://www.youtube.com/shorts/TJcb98K6ij8)
 - [Midnight summit #shorts #music](https://www.youtube.com/shorts/eqvD77-snuo)
-- [Dil ka rang &lpar;Hindi&rpar; #shorts #music](https://www.youtube.com/shorts/rWrUMi0qpMM)
-- [Thermopylae Dawn #shorts #song #spartan #music #warrior](https://www.youtube.com/shorts/mMvma1ott8Q)
-- [Midnight Hustle - Music Track #shorts #motivational #music](https://www.youtube.com/shorts/MGiIIHe0SG8)
-- [Suno Na &lpar;Hindi&rpar; - Travel Music Track #music #travel #hindisong](https://www.youtube.com/watch?v=TM2zn-gRouY)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
