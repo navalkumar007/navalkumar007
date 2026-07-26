@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Backstage Blaze #shorts #concert #music](https://www.youtube.com/shorts/YRTFKpgCbnU)
 - [God Friendly #shorts #music  #electronic  #developers](https://www.youtube.com/shorts/qzJsdLC4enk)
 - [Be Legendary #shorts #music](https://www.youtube.com/shorts/akbypJA1n1Q)
 - [Midnight Billionaire #shorts #music #money #motivation](https://www.youtube.com/shorts/6z5nNJhyR40)
 - [Battlefield #shorts #music #electronic](https://www.youtube.com/shorts/TJcb98K6ij8)
-- [Midnight summit #shorts #music](https://www.youtube.com/shorts/eqvD77-snuo)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
