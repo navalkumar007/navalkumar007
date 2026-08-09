@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [I built myself a FREE AI Music Label!](https://www.youtube.com/watch?v=3h8KNfMxdy8)
 - [Backstage Blaze #shorts #concert #music](https://www.youtube.com/shorts/YRTFKpgCbnU)
 - [God Friendly #shorts #music  #electronic  #developers](https://www.youtube.com/shorts/qzJsdLC4enk)
 - [Be Legendary #shorts #music](https://www.youtube.com/shorts/akbypJA1n1Q)
 - [Midnight Billionaire #shorts #music #money #motivation](https://www.youtube.com/shorts/6z5nNJhyR40)
-- [Battlefield #shorts #music #electronic](https://www.youtube.com/shorts/TJcb98K6ij8)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
