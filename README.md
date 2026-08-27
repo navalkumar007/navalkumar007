@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
-- [I Built My Own AI Ideation Assistant 🤖 | Talk, Think &amp; Design With AI](https://www.youtube.com/watch?v=HTo-dJYMvrU)
-- [I built myself a FREE AI Music Label!](https://www.youtube.com/watch?v=3h8KNfMxdy8)
-- [Backstage Blaze #shorts #concert #music](https://www.youtube.com/shorts/YRTFKpgCbnU)
-- [God Friendly #shorts #music  #electronic  #developers](https://www.youtube.com/shorts/qzJsdLC4enk)
-- [Be Legendary #shorts #music](https://www.youtube.com/shorts/akbypJA1n1Q)
+- [Your Coding Agent Might Be Cheating #shorts #ClaudeCode #Anthropic #AI #Coding](https://www.youtube.com/shorts/njKD12SbQyg)
+- [The Real AI Bottleneck #shorts #AI #SelfImprovingAgents #ClaudeCode #MachineLearning](https://www.youtube.com/shorts/hId10VAo7j0)
+- [Claude Code Just Stopped Asking Permission #shorts #ClaudeCode #Anthropic #AI #Coding](https://www.youtube.com/shorts/B_EQK22DNJo)
+- [Exponential Model, Linear Company #shorts #Anthropic #AI #ClaudeCode #AIAgents](https://www.youtube.com/shorts/hvWswTCauvM)
+- [Beat a Bigger Model Without Training It #shorts #AI #MachineLearning #LLM #TestTimeCompute](https://www.youtube.com/shorts/dMMYc2mA8NQ)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
