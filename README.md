@@ -45,7 +45,7 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
-- [CLAUDE code source code leaked through NPM registry #shorts #claudecode](https://www.youtube.com/shorts/cINagY8C6rs)
+- [CLAUDE code source code leaked #shorts #claudecode #hack #ai  #artificialintelligence](https://www.youtube.com/shorts/cINagY8C6rs)
 - [AI Thinks 6X FASTER by compressing its own thoughts #shorts #deepseek #ai](https://www.youtube.com/shorts/UgXrHx6d81U)
 - [AI Adapts to You: Ruflo&#39;s Memory Grows with Use #shorts #ai](https://www.youtube.com/shorts/DK4oMN-NIzw)
 - [2026 AI Study Linked to Tech Job Pay Cuts: The Truth #shorts #2026AIStudy #TechJobs #Compensation](https://www.youtube.com/shorts/DBePEr5odqA)
