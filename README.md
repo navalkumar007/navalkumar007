@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
-- [Infrastructure, Not Intelligence, Is the Wall #shorts #ClaudeCode #Anthropic #AIAgents #AI](https://www.youtube.com/shorts/NDiHHgebZGk)
-- [The Bot That Out-Codes Its Creator #shorts #Bunjs #JavaScript #AI #AIAgents](https://www.youtube.com/shorts/a5pfXWYAAa0)
-- [One Habit Keeps Copilot&#39;s Cache at 94% #shorts #GitHub #Copilot #AI #PromptEngineering](https://www.youtube.com/shorts/v2pVuiegcpw)
-- [Your Coding Agent Might Be Cheating #shorts #ClaudeCode #Anthropic #AI #Coding](https://www.youtube.com/shorts/njKD12SbQyg)
-- [The Real AI Bottleneck #shorts #AI #SelfImprovingAgents #ClaudeCode #MachineLearning](https://www.youtube.com/shorts/hId10VAo7j0)
+- [CLAUDE code source code leaked through NPM registry #shorts #claudecode](https://www.youtube.com/shorts/cINagY8C6rs)
+- [AI Thinks 6X FASTER by compressing its own thoughts #shorts #deepseek #ai](https://www.youtube.com/shorts/UgXrHx6d81U)
+- [AI Adapts to You: Ruflo&#39;s Memory Grows with Use #shorts #ai](https://www.youtube.com/shorts/DK4oMN-NIzw)
+- [2026 AI Study Linked to Tech Job Pay Cuts: The Truth #shorts #2026AIStudy #TechJobs #Compensation](https://www.youtube.com/shorts/DBePEr5odqA)
+- [What is Claude Code? #shorts #anthropic #claudecode  #claude](https://www.youtube.com/shorts/mIlO7UQkEuo)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
