@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Repo Teaches 37k Stars How To Write Claude Prompts #shorts #claude #opensourcec #promptengineering](https://www.youtube.com/shorts/zOqlCVhRe7M)
+- [Claude Agents Now Remember Everything #shorts #claude #agents #art](https://www.youtube.com/shorts/Zsb1wbNVr0c)
 - [30+ AI Tools Bundled For Faster Dev Workflow #shorts #ai #agents #aitools](https://www.youtube.com/shorts/skQDgVFjc-s)
 - [279K Starred Repo Redfines Software Development #shorts #agenticai  #github](https://www.youtube.com/shorts/I3kxscq3BGA)
 - [Script Your Tools Like a Pro with These 64 .agents Files #shorts #ai #agentskills](https://www.youtube.com/shorts/AgfcXhIsOh4)
-- [CLAUDE code source code leaked #shorts #claudecode #hack #ai  #artificialintelligence](https://www.youtube.com/shorts/cINagY8C6rs)
-- [AI Thinks 6X FASTER by compressing its own thoughts #shorts #deepseek #ai](https://www.youtube.com/shorts/UgXrHx6d81U)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
