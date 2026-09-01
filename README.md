@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [LLMs Stumble With Pinball Physics, Hinting At AI Limitations #shorts #ai #phsyics](https://www.youtube.com/shorts/sG_xeeX_KUE)
+- [AI Agent Gets Smarter Alone, No Retraining Needed #shorts #machinelearning](https://www.youtube.com/shorts/hjfnx9_D7vI)
+- [170k Tech Jobs Cut in 2026, 83% of AI Roles Slashed #shorts #tech layoffs #AI](https://www.youtube.com/shorts/EaqYLbOcBJQ)
 - [Repo Teaches 37k Stars How To Write Claude Prompts #shorts #claude #opensourcec #promptengineering](https://www.youtube.com/shorts/zOqlCVhRe7M)
 - [Claude Agents Now Remember Everything #shorts #claude #agents #art](https://www.youtube.com/shorts/Zsb1wbNVr0c)
-- [30+ AI Tools Bundled For Faster Dev Workflow #shorts #ai #agents #aitools](https://www.youtube.com/shorts/skQDgVFjc-s)
-- [279K Starred Repo Redfines Software Development #shorts #agenticai  #github](https://www.youtube.com/shorts/I3kxscq3BGA)
-- [Script Your Tools Like a Pro with These 64 .agents Files #shorts #ai #agentskills](https://www.youtube.com/shorts/AgfcXhIsOh4)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
