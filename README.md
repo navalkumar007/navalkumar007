@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Apple&#39;s Vision Pro and Siri Hit by Layoffs #shorts #apple](https://www.youtube.com/shorts/b6zVPUvtdwg)
 - [120K+ GitHub Stars: AI Codex In Terminal #shorts #codex #anthropic](https://www.youtube.com/shorts/JsyO9RCcwGM)
 - [YC-BACKED Salem Robotics Wants To Optimize Industrial Inspection #shorts #ai #robotics](https://www.youtube.com/shorts/Ig_Gogm5MZ0)
 - [195K Stars: AI&#39;S Self-Managed Museum Exhibit #shorts #ai #claw](https://www.youtube.com/shorts/0T2wpxYpp60)
 - [LLMs Stumble With Pinball Physics, Hinting At AI Limitations #shorts #ai #phsyics](https://www.youtube.com/shorts/sG_xeeX_KUE)
-- [AI Agent Gets Smarter Alone, No Retraining Needed #shorts #machinelearning](https://www.youtube.com/shorts/hjfnx9_D7vI)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
