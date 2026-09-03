@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Introducing OpenClaw Plugin to Route AI Services Through Single Key #shorts #openclaw  #ai](https://www.youtube.com/shorts/mEJbTnnaTQY)
+- [AI Codes From Your Voice In Seconds #shorts #ai #development #huzzah](https://www.youtube.com/shorts/NlDjrgWKMVw)
+- [352 AI Models in 1 API: Free Kimi, Claude, GPT, More #shorts #ai #omniroute](https://www.youtube.com/shorts/iLUl49Rezww)
 - [Apple&#39;s Vision Pro and Siri Hit by Layoffs #shorts #apple](https://www.youtube.com/shorts/b6zVPUvtdwg)
 - [120K+ GitHub Stars: AI Codex In Terminal #shorts #codex #anthropic](https://www.youtube.com/shorts/JsyO9RCcwGM)
-- [YC-BACKED Salem Robotics Wants To Optimize Industrial Inspection #shorts #ai #robotics](https://www.youtube.com/shorts/Ig_Gogm5MZ0)
-- [195K Stars: AI&#39;S Self-Managed Museum Exhibit #shorts #ai #claw](https://www.youtube.com/shorts/0T2wpxYpp60)
-- [LLMs Stumble With Pinball Physics, Hinting At AI Limitations #shorts #ai #phsyics](https://www.youtube.com/shorts/sG_xeeX_KUE)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
