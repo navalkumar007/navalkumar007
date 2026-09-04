@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Introducing Opencode: An Open Source Coding Agent #shorts #ai #development](https://www.youtube.com/shorts/86kknrlojK4)
+- [Bring Your Own AI Agent to Organize Content, No Cloud Access Needed #shorts](https://www.youtube.com/shorts/UNYuHsj46FQ)
+- [HKUDS/DeepCode - Open Agentic Coding #shorts #ai #agenticai](https://www.youtube.com/shorts/I9w-LbRCqnM)
 - [Introducing OpenClaw Plugin to Route AI Services Through Single Key #shorts #openclaw  #ai](https://www.youtube.com/shorts/mEJbTnnaTQY)
 - [AI Codes From Your Voice In Seconds #shorts #ai #development #huzzah](https://www.youtube.com/shorts/NlDjrgWKMVw)
-- [352 AI Models in 1 API: Free Kimi, Claude, GPT, More #shorts #ai #omniroute](https://www.youtube.com/shorts/iLUl49Rezww)
-- [Apple&#39;s Vision Pro and Siri Hit by Layoffs #shorts #apple](https://www.youtube.com/shorts/b6zVPUvtdwg)
-- [120K+ GitHub Stars: AI Codex In Terminal #shorts #codex #anthropic](https://www.youtube.com/shorts/JsyO9RCcwGM)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
