@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Apple&#39;s New Evidence in the OpenAI Case #shorts #technews #apple](https://www.youtube.com/shorts/LKFZ7fNT5xo)
 - [Repo Teaches AI to Write Less Code, Already Starred 120k Times #shorts #ponytail #coding](https://www.youtube.com/shorts/GKkWeid_O2o)
 - [42% Faster Grep Tokens With Claude Code Hack #shorts #claude  #claudecode](https://www.youtube.com/shorts/PEgjCIREX3A)
 - [AI Coding Agent Lives in Terminal #shorts #claudecode](https://www.youtube.com/shorts/nNIpqThz8NI)
 - [Unify Your Whole AI Workflow In One Click #shorts #ai #github](https://www.youtube.com/shorts/3BFyhoYYYic)
-- [Introducing Opencode: An Open Source Coding Agent #shorts #ai #development](https://www.youtube.com/shorts/86kknrlojK4)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
