@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Repo Teaches AI to Write Less Code, Already Starred 120k Times #shorts #ponytail #coding](https://www.youtube.com/shorts/GKkWeid_O2o)
+- [42% Faster Grep Tokens With Claude Code Hack #shorts #claude  #claudecode](https://www.youtube.com/shorts/PEgjCIREX3A)
+- [AI Coding Agent Lives in Terminal #shorts #claudecode](https://www.youtube.com/shorts/nNIpqThz8NI)
 - [Unify Your Whole AI Workflow In One Click #shorts #ai #github](https://www.youtube.com/shorts/3BFyhoYYYic)
 - [Introducing Opencode: An Open Source Coding Agent #shorts #ai #development](https://www.youtube.com/shorts/86kknrlojK4)
-- [Bring Your Own AI Agent to Organize Content, No Cloud Access Needed #shorts](https://www.youtube.com/shorts/UNYuHsj46FQ)
-- [HKUDS/DeepCode - Open Agentic Coding #shorts #ai #agenticai](https://www.youtube.com/shorts/I9w-LbRCqnM)
-- [Introducing OpenClaw Plugin to Route AI Services Through Single Key #shorts #openclaw  #ai](https://www.youtube.com/shorts/mEJbTnnaTQY)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
