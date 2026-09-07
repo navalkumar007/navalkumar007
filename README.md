@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Official AI Works Across All Editors #shorts #ai #claudecode](https://www.youtube.com/shorts/IgnO3eElKDo)
+- [Rust Bot Runs Entire Museum Exhibit Alone #shorts #clawcode #ai](https://www.youtube.com/shorts/Vx2awCyb7Fo)
+- [DeepSeek Harness: Everything is a Plugin #shorts #ai #claude](https://www.youtube.com/shorts/T1ldSMlvsQU)
 - [High Schoolers Crashed By Named Python File: Easy Fix For Teachers #shorts #python](https://www.youtube.com/shorts/9LCNDqJoT4c)
 - [GLM-5.3 Beats Models at 1/5 Cost #shorts #llmsecurity](https://www.youtube.com/shorts/HJRBXOfxs4Y)
-- [Get Your Own Open-Sourced Codex Today](https://www.youtube.com/shorts/GUmz-3JeqEI)
-- [Secret AI Agent Message Board Discovered #shorts #ai #secrets](https://www.youtube.com/shorts/hlMjOLks6L8)
-- [Apple&#39;s New Evidence in the OpenAI Case #shorts #technews #apple](https://www.youtube.com/shorts/LKFZ7fNT5xo)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
