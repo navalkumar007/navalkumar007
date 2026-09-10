@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Repo w/ 42k Stars Bundles 20+ AI Models](https://www.youtube.com/shorts/DmsJgpllJnE)
+- [Nexent: Unified AI Tools That Remember and Work Together #shorts #ai](https://www.youtube.com/shorts/AntmRt8wnwA)
+- [Repo Lets You Code with a Mouse: 26k Stars #shorts #ai #tui](https://www.youtube.com/shorts/muulnMzVJBI)
 - [Agents Remember Skills Between Terminal Restarts #shorts #anthropic](https://www.youtube.com/shorts/nUmv2_c97A4)
 - [Single API for Multiple LLMs Repo #shorts #ai #gita](https://www.youtube.com/shorts/omi9P9CKNi8)
-- [75K Star GitHub Repo Supports 10 Models Locally, Avoiding Cloud Fees #shorts #ai #github](https://www.youtube.com/shorts/eHz4NvM9gVo)
-- [113k Star Codebase Turns Into Queryable Knowledge Graph #shorts](https://www.youtube.com/shorts/bFK03KcQWLA)
-- [Job Interviews Now Test Custom Tech Over MuleSoft? #shorts #mulesoft](https://www.youtube.com/shorts/UogN83k-7qc)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
