@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Harness Claude To Design Anything #shorts #claudecode  #claudeai](https://www.youtube.com/shorts/XEVUt4fmOxw)
+- [17% Fewer AI Usage Limits For Claude #shorts #ai #claudeai](https://www.youtube.com/shorts/1Pil19RK-jo)
 - [Repo w/ 42k Stars Bundles 20+ AI Models](https://www.youtube.com/shorts/DmsJgpllJnE)
 - [Nexent: Unified AI Tools That Remember and Work Together #shorts #ai](https://www.youtube.com/shorts/AntmRt8wnwA)
 - [Repo Lets You Code with a Mouse: 26k Stars #shorts #ai #tui](https://www.youtube.com/shorts/muulnMzVJBI)
-- [Agents Remember Skills Between Terminal Restarts #shorts #anthropic](https://www.youtube.com/shorts/nUmv2_c97A4)
-- [Single API for Multiple LLMs Repo #shorts #ai #gita](https://www.youtube.com/shorts/omi9P9CKNi8)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
