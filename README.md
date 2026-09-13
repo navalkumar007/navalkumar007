@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [130K Star AI Repo: 100+ Agents, Skills, RAG Apps Curated #shorts #aitools](https://www.youtube.com/shorts/USMHVla0gG0)
+- [Spotify&#39;s Portal Cuts Claude Code Token Use 90% #shorts #spotify](https://www.youtube.com/shorts/hm9B2MHjlIQ)
 - [2-Star GitHub SDK Bundles Speech, Text, and AI in One API #shorts](https://www.youtube.com/shorts/gkF2KZlEVDQ)
 - [AI Swarms Powering Claude &amp; Codex? This Repo Makes It Easy #shorts #claudecode #codex](https://www.youtube.com/shorts/gfrDpXW5dU8)
 - [Harness Claude To Design Anything #shorts #claudecode  #claudeai](https://www.youtube.com/shorts/XEVUt4fmOxw)
-- [17% Fewer AI Usage Limits For Claude #shorts #ai #claudeai](https://www.youtube.com/shorts/1Pil19RK-jo)
-- [Repo w/ 42k Stars Bundles 20+ AI Models](https://www.youtube.com/shorts/DmsJgpllJnE)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
