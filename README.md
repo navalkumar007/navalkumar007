@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Self-Hosted OS Lets Orgs Control Claude Subs #shorts](https://www.youtube.com/shorts/bPGNs1XWaBc)
+- [Make Your Code&#39;s Structure Visible With 1 Click #shorts #aitools](https://www.youtube.com/shorts/dQF02Go9SjQ)
+- [AI Model Claims Sentience: First Major Sentient Agent #shorts #deepseek](https://www.youtube.com/shorts/8dxWA_ApeyA)
 - [Open Source Coding Agent Boasts 200k GitHub Stars #shorts #opencode](https://www.youtube.com/shorts/UQ4Wam5Zh7U)
 - [Build A Claude Agent Using Just Bash Scripting #shorts #claudeai](https://www.youtube.com/shorts/wTzxlR-F2e0)
-- [16k Star Repo Lets AI Do Your ML Research Overnight #shorts #ai](https://www.youtube.com/shorts/0qkz3G97bcE)
-- [Apple Lays Off 200+ Engineers in AI &amp; Hardware R&amp;D, SFGate Reports #shorts #apple](https://www.youtube.com/shorts/Voqh6r4vSBw)
-- [AI Researches Any Topic in 30 Seconds #shorts #github](https://www.youtube.com/shorts/jmGKAxSkFcc)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
