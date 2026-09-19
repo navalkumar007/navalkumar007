@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [AI Agents Unite in First-Ever Unified Toolkit #shorts #ai #pi](https://www.youtube.com/shorts/iTuQDX1tjGw)
+- [46k Star GitHub Installable in 1 Line of Code #shorts #ai #agents](https://www.youtube.com/shorts/qOv5wjE7K4Q)
 - [Persistent Local Memory for Claude, Copilot, and More #shorts #ai](https://www.youtube.com/shorts/l0jYjlyojy8)
 - [Master Advanced Context Engineering for Claude Code Workflows #shorts #ai](https://www.youtube.com/shorts/zhif3uUcJgY)
 - [17K RUNS: Which Tools AI Coding Agents Like Claude Install #shorts #claudeai](https://www.youtube.com/shorts/ZxuSE9wc7HI)
-- [Anthropic CEO Says Slow Down AI Progress: Why It Matters #shorts](https://www.youtube.com/shorts/ernz856P37w)
-- [Cursor Plugin Connects to Speko&#39;s Hosted Speech Services #shorts #plugins #ai](https://www.youtube.com/shorts/Mw9S_JQUBI8)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
