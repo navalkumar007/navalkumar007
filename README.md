@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [OpenAI Stole Proof Without Linking to Original Posts #shorts #ai #openai](https://www.youtube.com/shorts/PlsbSDs9kKE)
+- [AI Trains GPT-6 Astra With Synthetic Data, Skipping Humans](https://www.youtube.com/shorts/swr8YZc24f4)
 - [This Repo&#39;s Control Plane Manages Durable Work Across Codex &amp; Claude Code #shorts  #ai #claudecode](https://www.youtube.com/shorts/BJFV84dMgvo)
 - [Repo Lets Agents Remember Locally, Avoids Cloud Leaks #shorts #agents #ai](https://www.youtube.com/shorts/lxpYbKWBmZM)
 - [When you&#39;re not coding, find a way to stay active #gymmotivation #developerlife #fijian](https://www.youtube.com/shorts/oBd1Or_cVg0)
-- [AI Agents Unite in First-Ever Unified Toolkit #shorts #ai #pi](https://www.youtube.com/shorts/iTuQDX1tjGw)
-- [46k Star GitHub Installable in 1 Line of Code #shorts #ai #agents](https://www.youtube.com/shorts/qOv5wjE7K4Q)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
