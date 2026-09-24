@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Reuse Any DeepSeek Feature With deepseek-harness #shorts #ai #deepseek](https://www.youtube.com/shorts/vSA66MUSlew)
+- [Free Access to Powerful AI Models on GitHub #shorts #ai](https://www.youtube.com/shorts/N2g0PFTRn0E)
+- [Researchers Worry About Trusting OpenAI with Unpublished Math #shorts #ai](https://www.youtube.com/shorts/AET4-8Vj6kQ)
 - [AI Cuts JSON Tokens by 95%: GitHub&#39;s 73K-Star Tool #shorts #github](https://www.youtube.com/shorts/DkkDo7iDvHk)
 - [105K STARS! Repo Cuts Tokens 65% With Simple Prompts #shorts #ai](https://www.youtube.com/shorts/4lf28sIis0Q)
-- [Meet Biff 2.0: The New Clojure Web Framework Simplifying App Dev #shorts #ai](https://www.youtube.com/shorts/oWSOVfjV2Iw)
-- [OpenAI Stole Proof Without Linking to Original Posts #shorts #ai #openai](https://www.youtube.com/shorts/PlsbSDs9kKE)
-- [AI Trains GPT-6 Astra With Synthetic Data, Skipping Humans](https://www.youtube.com/shorts/swr8YZc24f4)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
