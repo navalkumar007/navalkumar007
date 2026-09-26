@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [269k Star Repo Distills Real Engineering Skills into Code #shorts #ai #agenticai](https://www.youtube.com/shorts/BU0m72Ebh3Y)
+- [Download Courses &amp; Run AI Agents Without Terminal #shorts](https://www.youtube.com/shorts/yoPrwzcqLqY)
 - [Repo w 60k Stars Turns Scripts to Videos w 700 AI Agents #shorts #ai](https://www.youtube.com/shorts/hxOwcvD1etU)
 - [DeepSeek v4.1 Flash Cuts Price Without Sacrificing Power #shorts #ai #claudecode #github](https://www.youtube.com/shorts/t-8doynOgnM)
 - [Reuse Any DeepSeek Feature With deepseek-harness #shorts #ai #deepseek](https://www.youtube.com/shorts/vSA66MUSlew)
-- [Free Access to Powerful AI Models on GitHub #shorts #ai](https://www.youtube.com/shorts/N2g0PFTRn0E)
-- [Researchers Worry About Trusting OpenAI with Unpublished Math #shorts #ai](https://www.youtube.com/shorts/AET4-8Vj6kQ)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
