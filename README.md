@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Claude&#39;s Pessimism Is Realism, Not Smarter #shorts](https://www.youtube.com/shorts/NriWxGgcfcQ)
+- [Free GPT API Access: 10k Daily Credits No Waiting! #shorts #ai #gpt](https://www.youtube.com/shorts/abJdF7kfxng)
 - [269k Star Repo Distills Real Engineering Skills into Code #shorts #ai #agenticai](https://www.youtube.com/shorts/BU0m72Ebh3Y)
 - [Download Courses &amp; Run AI Agents Without Terminal #shorts](https://www.youtube.com/shorts/yoPrwzcqLqY)
 - [Repo w 60k Stars Turns Scripts to Videos w 700 AI Agents #shorts #ai](https://www.youtube.com/shorts/hxOwcvD1etU)
-- [DeepSeek v4.1 Flash Cuts Price Without Sacrificing Power #shorts #ai #claudecode #github](https://www.youtube.com/shorts/t-8doynOgnM)
-- [Reuse Any DeepSeek Feature With deepseek-harness #shorts #ai #deepseek](https://www.youtube.com/shorts/vSA66MUSlew)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
