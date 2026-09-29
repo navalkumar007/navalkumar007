@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Schedule Agent Tasks in Minutes, Not Hours - Moadim.io #shorts #ai](https://www.youtube.com/shorts/DEQ_HPYihjA)
+- [Repo Has 2.6K Stars, Lets Agents Remember Context Across Session #shorts #ai](https://www.youtube.com/shorts/Si2bWy4U_PQ)
 - [AI Tool Automates Fixing Production Incidents In Rust #shorts #ai #github](https://www.youtube.com/shorts/PnKAolHyivY)
 - [Fish Skin AI Guide: 20K Devs Mastered AI in 1 Place #shorts #ai  #claudecode](https://www.youtube.com/shorts/nBWih9ycXnk)
 - [Claude&#39;s Pessimism Is Realism, Not Smarter #shorts](https://www.youtube.com/shorts/NriWxGgcfcQ)
-- [Free GPT API Access: 10k Daily Credits No Waiting! #shorts #ai #gpt](https://www.youtube.com/shorts/abJdF7kfxng)
-- [269k Star Repo Distills Real Engineering Skills into Code #shorts #ai #agenticai](https://www.youtube.com/shorts/BU0m72Ebh3Y)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
