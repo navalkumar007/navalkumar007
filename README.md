@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Untyped Lambdas Power This New Programming Language #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/4cjL8d3Nl18)
+- [AI Agents Remember Every Session With This Trick #shorts #ai](https://www.youtube.com/shorts/xMMpo4K3fXM)
 - [AI Agents Share Memory for First Time #shorts #github](https://www.youtube.com/shorts/9lqFMfxaGEM)
 - [8-STAR ESP CLOCK FOUND: Hidden Gem or Overlooked? #shorts #ai](https://www.youtube.com/shorts/a7nbbwf78aw)
 - [Schedule Agent Tasks in Minutes, Not Hours - Moadim.io #shorts #ai](https://www.youtube.com/shorts/DEQ_HPYihjA)
-- [Repo Has 2.6K Stars, Lets Agents Remember Context Across Session #shorts #ai](https://www.youtube.com/shorts/Si2bWy4U_PQ)
-- [AI Tool Automates Fixing Production Incidents In Rust #shorts #ai #github](https://www.youtube.com/shorts/PnKAolHyivY)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
