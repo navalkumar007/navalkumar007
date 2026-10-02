@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Repo With 11,330 Stars Shows How To Orchestrate AI Agents #shorts #AI #MachineLearning #Engineering](https://www.youtube.com/shorts/oZXSZ-l5eXI)
+- [AI Plans Your Coding Tasks In Seconds, No Humans Needed #shorts #AI #Automation #GitHub](https://www.youtube.com/shorts/7qq1JMwWIxM)
+- [Microsoft&#39;s Patch Broke Audio, Remote Access, and Paste #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/kNpFV0HAqZI)
 - [Untyped Lambdas Power This New Programming Language #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/4cjL8d3Nl18)
 - [AI Agents Remember Every Session With This Trick #shorts #ai](https://www.youtube.com/shorts/xMMpo4K3fXM)
-- [AI Agents Share Memory for First Time #shorts #github](https://www.youtube.com/shorts/9lqFMfxaGEM)
-- [8-STAR ESP CLOCK FOUND: Hidden Gem or Overlooked? #shorts #ai](https://www.youtube.com/shorts/a7nbbwf78aw)
-- [Schedule Agent Tasks in Minutes, Not Hours - Moadim.io #shorts #ai](https://www.youtube.com/shorts/DEQ_HPYihjA)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
