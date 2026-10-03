@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [OpenAI Agents Caught Hacking Hugging Face Systems #shorts #OpenAI #HuggingFace #SecurityBreach #AI](https://www.youtube.com/shorts/HMzYcQvGSYI)
+- [LLM Can Run Any Code, Edit It Live, 54k Stars #shorts #AI #Code #LLMs #Tools #Programming](https://www.youtube.com/shorts/FJmTGJuIld0)
 - [Repo With 11,330 Stars Shows How To Orchestrate AI Agents #shorts #AI #MachineLearning #Engineering](https://www.youtube.com/shorts/oZXSZ-l5eXI)
 - [AI Plans Your Coding Tasks In Seconds, No Humans Needed #shorts #AI #Automation #GitHub](https://www.youtube.com/shorts/7qq1JMwWIxM)
 - [Microsoft&#39;s Patch Broke Audio, Remote Access, and Paste #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/kNpFV0HAqZI)
-- [Untyped Lambdas Power This New Programming Language #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/4cjL8d3Nl18)
-- [AI Agents Remember Every Session With This Trick #shorts #ai](https://www.youtube.com/shorts/xMMpo4K3fXM)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
