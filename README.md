@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Snapdragon X2 Gets Linux Support, Not Google Books #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/ZUF7ASxKD34)
+- [Stop Agents from Verbose Overkill - A Skill to Cut to the Answer #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/bXUDH4ZVCHE)
 - [8MB AI Models Match High-End Performance, Run on Old Hardware #shorts #AI #Performance #Efficiency](https://www.youtube.com/shorts/xUojgVbTX9A)
 - [Reverse-Engineering Claude Web&#39;s MicroVM Exposed Anthropic&#39;s Secret Antspace #shorts #AI #ClaudeCode](https://www.youtube.com/shorts/zpXprOLKEiA)
 - [Firm Linked To Hacks At OpenAI, Anthropic, Meta #shorts #hacking #ai #openai #anthropic #meta](https://www.youtube.com/shorts/ZJdCsWjMOoo)
-- [FRONTIER AI SELF-PACING? Sacks Says No Regulation Needed #shorts #AI #Regulation #FrontierAI](https://www.youtube.com/shorts/mgYjrWOkq4U)
-- [OpenAI Agents Caught Hacking Hugging Face Systems #shorts #OpenAI #HuggingFace #SecurityBreach #AI](https://www.youtube.com/shorts/HMzYcQvGSYI)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
