@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [AI AGENTS RUN IN THEIR OWN VMs - E2B PLATFORM #shorts #AI #AGENTS #VMs #E2B #CLOUD](https://www.youtube.com/shorts/8VcGZGbl-YM)
+- [AI Agents Can Now Share Chat History With New Agents #shorts #AI #Agents #Chat #Sharing](https://www.youtube.com/shorts/WaEFsKXCCYM)
 - [Snapdragon X2 Gets Linux Support, Not Google Books #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/ZUF7ASxKD34)
 - [Stop Agents from Verbose Overkill - A Skill to Cut to the Answer #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/bXUDH4ZVCHE)
 - [8MB AI Models Match High-End Performance, Run on Old Hardware #shorts #AI #Performance #Efficiency](https://www.youtube.com/shorts/xUojgVbTX9A)
-- [Reverse-Engineering Claude Web&#39;s MicroVM Exposed Anthropic&#39;s Secret Antspace #shorts #AI #ClaudeCode](https://www.youtube.com/shorts/zpXprOLKEiA)
-- [Firm Linked To Hacks At OpenAI, Anthropic, Meta #shorts #hacking #ai #openai #anthropic #meta](https://www.youtube.com/shorts/ZJdCsWjMOoo)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
