@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Dutch Gov Uses NixOS Like OpenDesk, La Suite #shorts #NixOS #MijnBureau #OpenDesk #LaSuite #DutchGov](https://www.youtube.com/shorts/7Gwae-NCWnE)
+- [AI Agents Can Now Match Your Brand&#39;s Design System #shorts #AI #Design #Productivity](https://www.youtube.com/shorts/7wlVfWRixMs)
 - [Run Claude Code in Isolated VMs with Coop Repo #shorts #python #ai #machinelearning #opensource #vm](https://www.youtube.com/shorts/Ry3US7I31Ik)
 - [AI Cracked 70-Year-Old Unbreakable Enigma Code #shorts #AI #Enigma #Cryptography](https://www.youtube.com/shorts/wlgUN8Dg51E)
 - [AI AGENTS RUN IN THEIR OWN VMs - E2B PLATFORM #shorts #AI #AGENTS #VMs #E2B #CLOUD](https://www.youtube.com/shorts/8VcGZGbl-YM)
-- [AI Agents Can Now Share Chat History With New Agents #shorts #AI #Agents #Chat #Sharing](https://www.youtube.com/shorts/WaEFsKXCCYM)
-- [Snapdragon X2 Gets Linux Support, Not Google Books #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/ZUF7ASxKD34)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
