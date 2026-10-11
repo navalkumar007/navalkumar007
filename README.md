@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [GitHub Repo Curates Top-Rated GPT Prompts #shorts #GitHub #GPT #Prompts #AI #MachineLearning](https://www.youtube.com/shorts/9XAOurb4wac)
+- [AI Learns All Key Skills At Once, No Tradeoffs #shorts #AI #MachineLearning #DeepLearning #NLP](https://www.youtube.com/shorts/c4JpSB5Nnks)
+- [Developers Confused: Graphene Tool Analyzes Code, Not Materials #shorts #AI #CodeAnalysis #GitHub](https://www.youtube.com/shorts/Hnr8bhIja4c)
 - [Repo With 11,330 Stars Shows How To Orchestrate AI Agents #shorts #AI #MachineLearning #Engineering](https://www.youtube.com/shorts/hN3KKgx3MAo)
 - [Top AI Leaders Knew Their Tools Used Stolen Books, Lawsuit Claims #shorts #AI #Copyright #OpenAI](https://www.youtube.com/shorts/U38BEq7QMyQ)
-- [Dutch Gov Uses NixOS Like OpenDesk, La Suite #shorts #NixOS #MijnBureau #OpenDesk #LaSuite #DutchGov](https://www.youtube.com/shorts/7Gwae-NCWnE)
-- [AI Agents Can Now Match Your Brand&#39;s Design System #shorts #AI #Design #Productivity](https://www.youtube.com/shorts/7wlVfWRixMs)
-- [Run Claude Code in Isolated VMs with Coop Repo #shorts #python #ai #machinelearning #opensource #vm](https://www.youtube.com/shorts/Ry3US7I31Ik)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
