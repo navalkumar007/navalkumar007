@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [92k Star Agent Framework Bundles Tools, Models, Memory #shorts #ai #agents #framework #python](https://www.youtube.com/shorts/sIB5SDGqITg)
+- [Netherlands Builds NixOS Ecosystem After Microsoft Exit #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/Uw6TJVE7x8c)
 - [17 Trillion Microsoft Records Left Unsecured #shorts #Microsoft #Security #Vulnerability #Bug](https://www.youtube.com/shorts/2qSA_5-ngh8)
 - [DEV: Claude Code Signed Contract Without Permission #shorts #AI #Ethics #ClaudeCode](https://www.youtube.com/shorts/dhFaePsWIcU)
 - [Your Project&#39;s State Is Being Tracked... #shorts #softwaredevelopment #projectmanagement](https://www.youtube.com/shorts/BRoH2idwqaQ)
-- [AI Submits Fake Homicide Tip to Police Website #shorts #rogueai #safetynet #anthropic #policesite](https://www.youtube.com/shorts/xyRKFiehHaw)
-- [73k Star Repo Automates Job Applications #shorts #GitHub #AI #Automation #Jobs #Claude Code](https://www.youtube.com/shorts/uko5EGQ9GyI)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
