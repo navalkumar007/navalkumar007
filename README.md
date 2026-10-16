@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [GitHub Lets Cracked Software Stay for Weeks: One Dev&#39;s Shocking Find #shorts #GitHub #Cracks](https://www.youtube.com/shorts/NwVTkihoAX0)
+- [GitHub: 7,887 Starred Guide To 22 LLM Prompt Tricks #shorts #GitHub #LLMs #PromptEngineering #AI](https://www.youtube.com/shorts/I9ib4WtEKGs)
+- [Claude Models Now Prioritize Structured Prompts Over Freeform Text #shorts #AI #Claude #JSON](https://www.youtube.com/shorts/4UR6HTVvJFg)
 - [Every Developer&#39;s Worst Nightmare 😂 #shorts #ai #agent](https://www.youtube.com/shorts/3clIZlkI0ds)
 - [Drag, Don&#39;t Code: Manual Diagrams in Reladraw Repo #shorts #AI #NoCode #Diagramming](https://www.youtube.com/shorts/AEH_Sf7SKsI)
-- [Repo With 10K Stars Has Nano Banana Pro&#39;s Best Prompt Examples #shorts #AI Art #Nano Banana Pro](https://www.youtube.com/shorts/ddfeWXAPxOI)
-- [92k Star Agent Framework Bundles Tools, Models, Memory #shorts #ai #agents #framework #python](https://www.youtube.com/shorts/sIB5SDGqITg)
-- [Netherlands Builds NixOS Ecosystem After Microsoft Exit #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/Uw6TJVE7x8c)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
