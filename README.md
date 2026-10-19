@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [AI Runs 2x Faster With This Trick #shorts #ai #inference #speedup #magnitude #optimization](https://www.youtube.com/shorts/wxftyoaYsxw)
+- [Chat w/GPT-5, Claude, Gemini Without API Keys? Try This New Tool #shorts #AI #ChatGPT #Claude #API](https://www.youtube.com/shorts/Sno9hj113ko)
+- [4k Token AI System Powers Modular Life Management Tools #shorts #openlumara #modularai #lifehacks](https://www.youtube.com/shorts/-RKRUGkSCm0)
 - [5.8k Star Repo Solves AI Agent Chaos Forever #shorts #AI #DevTools #Productivity](https://www.youtube.com/shorts/5vZOlCewKbY)
 - [Harness Needs Existing Services to Function, Say Developers #shorts #AI #Infrastructure #Model](https://www.youtube.com/shorts/H0Ev12zRrYU)
-- [7 AI Agents Share 1 Plugin Marketplace #shorts #ai #plugins #marketplace](https://www.youtube.com/shorts/2iEXBKOGel0)
-- [Strata Lets LLMs Say No to Your Code #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/k5y0l3lvIms)
-- [Microsoft Reboots Copilot, Ending Chatbot Experiment, Focusing on Code #shorts #Microsoft #Copilot](https://www.youtube.com/shorts/Y340tEnk8UY)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
