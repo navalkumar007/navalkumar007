@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [DeepSeek&#39;s Cost-Cutting CED Model #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/VbfoH5YZpuc)
+- [Dutch Gov Shifts to Open Source Over Microsoft 365 #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/nG40W4X1Pyw)
+- [Agent37 Lets Customers Run Agents For Just $0.37/Month On Average #shorts #agent37 #aiagents #devops](https://www.youtube.com/shorts/Fc3aKGFkjFE)
 - [AI, Coding, Automation, Productivity, Efficiency, nask-claude_hacks_123](https://www.youtube.com/shorts/pyW9eIP9qVk)
 - [AI Agent Works Solo, Solves Large Coding Tasks #shorts #AI #Coding #Automation #Productivity](https://www.youtube.com/shorts/o3L46VYg1yM)
-- [35k STAR AI CODING AGENT - RUN IT IN YOUR PROJECTS #shorts #ai #coding #automation #github](https://www.youtube.com/shorts/L55aPVu_oMY)
-- [AI Runs 2x Faster With This Trick #shorts #ai #inference #speedup #magnitude #optimization](https://www.youtube.com/shorts/wxftyoaYsxw)
-- [Chat w/GPT-5, Claude, Gemini Without API Keys? Try This New Tool #shorts #AI #ChatGPT #Claude #API](https://www.youtube.com/shorts/Sno9hj113ko)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
