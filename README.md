@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Microsoft MXC Isn&#39;t Isolation Tech — It&#39;s a Policy API for Containers #shorts #TechLayoffs #TechJobs](https://www.youtube.com/shorts/Bin3jqXteBk)
+- [Claude Code Now Auto-Repairs Code Below 90% Match #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/BnjPc4w4QU0)
+- [Spool Lets Loops Chat Directly Without Relays #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/sKO4iRyQYKY)
 - [DeepSeek&#39;s Cost-Cutting CED Model #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/VbfoH5YZpuc)
 - [Dutch Gov Shifts to Open Source Over Microsoft 365 #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/nG40W4X1Pyw)
-- [Agent37 Lets Customers Run Agents For Just $0.37/Month On Average #shorts #agent37 #aiagents #devops](https://www.youtube.com/shorts/Fc3aKGFkjFE)
-- [AI, Coding, Automation, Productivity, Efficiency, nask-claude_hacks_123](https://www.youtube.com/shorts/pyW9eIP9qVk)
-- [AI Agent Works Solo, Solves Large Coding Tasks #shorts #AI #Coding #Automation #Productivity](https://www.youtube.com/shorts/o3L46VYg1yM)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
