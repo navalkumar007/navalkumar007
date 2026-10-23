@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Microsoft&#39;s Decision-1 Model Outperforms LLMs in Speed and Accuracy #shorts #TechLayoffs #TechJobs](https://www.youtube.com/shorts/PhvEQqDLmBU)
+- [Run Arch Linux ARM on Your RTX Spark Laptop #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/IKVgSGzQI-8)
 - [Microsoft MXC Isn&#39;t Isolation Tech — It&#39;s a Policy API for Containers #shorts #TechLayoffs #TechJobs](https://www.youtube.com/shorts/Bin3jqXteBk)
 - [Claude Code Now Auto-Repairs Code Below 90% Match #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/BnjPc4w4QU0)
 - [Spool Lets Loops Chat Directly Without Relays #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/sKO4iRyQYKY)
-- [DeepSeek&#39;s Cost-Cutting CED Model #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/VbfoH5YZpuc)
-- [Dutch Gov Shifts to Open Source Over Microsoft 365 #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/nG40W4X1Pyw)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
