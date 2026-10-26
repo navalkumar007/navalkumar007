@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [AI Coding Agents Turned Into Software Delivery Flow #shorts #ai #coding #software #development](https://www.youtube.com/shorts/IvCTCOO6m80)
+- [UllrAI SaaS Starter Kit: Launch Your Next Project Faster #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/vJEIzyCaDzE)
+- [Meta and Microsoft Limit Employees&#39; Claude AI Usage #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/wBOlbQF015U)
 - [US Bans DeepSeek From Federal Civilian Agencies #shorts #AI #DeepSeek #Government #DHS #Security](https://www.youtube.com/shorts/VNM3rzGkUC4)
 - [Claude Code Now Suggests Your Next Message #shorts #ClaudeCode #AI #chatbots](https://www.youtube.com/shorts/j_LhT4g_KZc)
-- [US Suspends Microsoft, Major IT Firms From Green Card Program #shorts #tech #immigration #hiring](https://www.youtube.com/shorts/tWPhRMUIXHw)
-- [LLM Gateway Passes All 410 FedRAMP High Controls #shorts #AI #LLM #Security #FedRAMP #Compliance](https://www.youtube.com/shorts/q5gMgSezuF4)
-- [Spotatui: Terminal Music Player With Synced Lyrics #shorts #spotify #terminal #musicplayer](https://www.youtube.com/shorts/c0NZIuOV9_4)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
