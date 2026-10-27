@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Atticus: Hold-to-Talk Mac Assistant That Runs on Claude #shorts #AI #Automation #macOS #Tool](https://www.youtube.com/shorts/0EtW9l8ixnY)
+- [101k Star Agent Learns Website Design #shorts #ai #coding #agents #design](https://www.youtube.com/shorts/1gfJ53iCv-g)
+- [A Vibe Coding Tool List Where Every Entry Comes With Proof #shorts #coding #tools #vibecoding](https://www.youtube.com/shorts/MPB-BibQmZM)
 - [AI Coding Agents Turned Into Software Delivery Flow #shorts #ai #coding #software #development](https://www.youtube.com/shorts/IvCTCOO6m80)
 - [UllrAI SaaS Starter Kit: Launch Your Next Project Faster #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/vJEIzyCaDzE)
-- [Meta and Microsoft Limit Employees&#39; Claude AI Usage #shorts #TechLayoffs #TechJobs #Careers](https://www.youtube.com/shorts/wBOlbQF015U)
-- [US Bans DeepSeek From Federal Civilian Agencies #shorts #AI #DeepSeek #Government #DHS #Security](https://www.youtube.com/shorts/VNM3rzGkUC4)
-- [Claude Code Now Suggests Your Next Message #shorts #ClaudeCode #AI #chatbots](https://www.youtube.com/shorts/j_LhT4g_KZc)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
