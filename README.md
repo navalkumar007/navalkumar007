@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [GPT-6 Astra Tops SlopCodeBench at 16.3% #shorts #AI #MachineLearning #ModelPerformance](https://www.youtube.com/shorts/f4111f80Tek)
+- [How the Claude Code Team Merges PRs With One Human #shorts #AI #ClaudeCode #PullRequests #CICD](https://www.youtube.com/shorts/QYIUqwiQfKY)
+- [4K Star Repo Pauses Agent Workflows #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/5h7j20DwcSM)
 - [Parrot: Open-Source Smart Meeting Recorder Integrates Co-Pilot on Mac #shorts #open-source #co-pilot](https://www.youtube.com/shorts/R93wdhS5oe4)
 - [AI Agents Get Their Own Cloud Computers With Memoh #shorts #ai #agents #memoh #selfhost #cloud](https://www.youtube.com/shorts/PydKthyUQ3A)
-- [LoopX Turns Long Goals Into Verifiable Results, 6k+ Stars #shorts #ai #agents #localfirst #loopx](https://www.youtube.com/shorts/VuJ6a18m67k)
-- [Atticus: Hold-to-Talk Mac Assistant That Runs on Claude #shorts #AI #Automation #macOS #Tool](https://www.youtube.com/shorts/0EtW9l8ixnY)
-- [101k Star Agent Learns Website Design #shorts #ai #coding #agents #design](https://www.youtube.com/shorts/1gfJ53iCv-g)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
