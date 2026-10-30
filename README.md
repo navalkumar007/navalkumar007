@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [21M Piped GETs Per Second, 9X Faster Than Redis 8 #shorts #kividb #redis #database #vectorsearch](https://www.youtube.com/shorts/_oo6jJKqZ2c)
+- [Graphicle: Ask Your Codebase Questions From the Terminal #shorts #ai #agents #terminal #graphicle](https://www.youtube.com/shorts/I_3WEqZflSk)
+- [51K Star AI Chats As You Code #shorts #AI #GitHub #WebGPU #WebAssembly](https://www.youtube.com/shorts/RyPA_4ySexM)
 - [GPT-6 Astra Tops SlopCodeBench at 16.3% #shorts #AI #MachineLearning #ModelPerformance](https://www.youtube.com/shorts/f4111f80Tek)
 - [How the Claude Code Team Merges PRs With One Human #shorts #AI #ClaudeCode #PullRequests #CICD](https://www.youtube.com/shorts/QYIUqwiQfKY)
-- [4K Star Repo Pauses Agent Workflows #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/5h7j20DwcSM)
-- [Parrot: Open-Source Smart Meeting Recorder Integrates Co-Pilot on Mac #shorts #open-source #co-pilot](https://www.youtube.com/shorts/R93wdhS5oe4)
-- [AI Agents Get Their Own Cloud Computers With Memoh #shorts #ai #agents #memoh #selfhost #cloud](https://www.youtube.com/shorts/PydKthyUQ3A)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
