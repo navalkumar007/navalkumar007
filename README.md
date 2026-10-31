@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Torvalds Adopts New AI Code For Linux Memory Management #shorts #linux #kernel #memorymanagement](https://www.youtube.com/shorts/s6WXQmIewKQ)
+- [Maxwell: The First Code Execution Model #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/ZivchPOkTcs)
+- [80% Off: Slash Claude Costs with This Secure Sandbox #shorts #opensource #ai #code #claude](https://www.youtube.com/shorts/NSKHWZdAvR4)
 - [21M Piped GETs Per Second, 9X Faster Than Redis 8 #shorts #kividb #redis #database #vectorsearch](https://www.youtube.com/shorts/_oo6jJKqZ2c)
 - [Graphicle: Ask Your Codebase Questions From the Terminal #shorts #ai #agents #terminal #graphicle](https://www.youtube.com/shorts/I_3WEqZflSk)
-- [51K Star AI Chats As You Code #shorts #AI #GitHub #WebGPU #WebAssembly](https://www.youtube.com/shorts/RyPA_4ySexM)
-- [GPT-6 Astra Tops SlopCodeBench at 16.3% #shorts #AI #MachineLearning #ModelPerformance](https://www.youtube.com/shorts/f4111f80Tek)
-- [How the Claude Code Team Merges PRs With One Human #shorts #AI #ClaudeCode #PullRequests #CICD](https://www.youtube.com/shorts/QYIUqwiQfKY)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
