@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Version Human-AI Work in Git with ADRs #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/n-HJJZR1u5E)
+- [The Outage That Locked Out Its Own Repair Team #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/CfNiZgnrS5Y)
+- [Dev Finds Hidden Planet With Claude Code #shorts #AI #ClaudeCode #HiddenPlanet #SpaceDiscovery](https://www.youtube.com/shorts/UgwEuOpD_ls)
 - [5 Abliterated Models Now On AllModels #shorts #AI #MachineLearning #Security #DeepLearning](https://www.youtube.com/shorts/tJmySJFjOxs)
 - [Add 24 AI Agent Commands #shorts #AI #Commands #Design](https://www.youtube.com/shorts/DufSrAPhH7g)
-- [Run 39.6k Token AI Agents Without Manual Setup #shorts #AI #ClaudeCode #tmux #automation](https://www.youtube.com/shorts/ySowby1ddPw)
-- [3K Star Open Source XBOW Alternative #shorts #ai #penetrationtesting #opensource](https://www.youtube.com/shorts/VR7fQVUOVQA)
-- [6K Star Open Source Vapi Alternative #shorts #opensource #voiceai #github](https://www.youtube.com/shorts/QOwyN0LTOjo)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
