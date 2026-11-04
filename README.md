@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Run Llama and Gemma Offline With 1.9K Star Atomic Chat #shorts #localai #offlineai #llm #opensource](https://www.youtube.com/shorts/RhUSHO9YGAo)
+- [The Roblox Fixes That Kept Failing #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/PAVbrfXce-8)
+- [Alibaba Triples DeepSeek V4 Flash Prices #shorts #AI #Alibaba #Pricing](https://www.youtube.com/shorts/jBpyg-x4O5E)
 - [Version Human-AI Work in Git with ADRs #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/n-HJJZR1u5E)
 - [The Outage That Locked Out Its Own Repair Team #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/CfNiZgnrS5Y)
-- [Dev Finds Hidden Planet With Claude Code #shorts #AI #ClaudeCode #HiddenPlanet #SpaceDiscovery](https://www.youtube.com/shorts/UgwEuOpD_ls)
-- [5 Abliterated Models Now On AllModels #shorts #AI #MachineLearning #Security #DeepLearning](https://www.youtube.com/shorts/tJmySJFjOxs)
-- [Add 24 AI Agent Commands #shorts #AI #Commands #Design](https://www.youtube.com/shorts/DufSrAPhH7g)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
