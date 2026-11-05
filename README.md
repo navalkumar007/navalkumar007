@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [300GB Gone In Seconds? Why GitLab Lost 5,000 Projects #shorts #gitlab #database #backup #devops](https://www.youtube.com/shorts/n5Ch60TOfSo)
+- [50K Star Repo Runs AI On Your CPU, No GPU Needed #shorts #localai #ai #opensource #llm](https://www.youtube.com/shorts/SQ-BFPWEFrM)
 - [Run Llama and Gemma Offline With 1.9K Star Atomic Chat #shorts #localai #offlineai #llm #opensource](https://www.youtube.com/shorts/RhUSHO9YGAo)
 - [The Roblox Fixes That Kept Failing #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/PAVbrfXce-8)
 - [Alibaba Triples DeepSeek V4 Flash Prices #shorts #AI #Alibaba #Pricing](https://www.youtube.com/shorts/jBpyg-x4O5E)
-- [Version Human-AI Work in Git with ADRs #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/n-HJJZR1u5E)
-- [The Outage That Locked Out Its Own Repair Team #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/CfNiZgnrS5Y)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
