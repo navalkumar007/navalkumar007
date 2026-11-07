@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [The Day Facebook Locked Itself Out #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/tTrk2hU7W6A)
+- [The Security Update Behind Cancelled Flights #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/7F4Ct_cKeW8)
 - [Knight Capital Got 97 Emails Before Losing $460M #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/VTaU27Kjd2o)
 - [The Status Page That Couldn&#39;t Report Its Own Outage #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/6mPoop_HIwY)
 - [300GB Gone In Seconds? Why GitLab Lost 5,000 Projects #shorts #gitlab #database #backup #devops](https://www.youtube.com/shorts/n5Ch60TOfSo)
-- [50K Star Repo Runs AI On Your CPU, No GPU Needed #shorts #localai #ai #opensource #llm](https://www.youtube.com/shorts/SQ-BFPWEFrM)
-- [Run Llama and Gemma Offline With 1.9K Star Atomic Chat #shorts #localai #offlineai #llm #opensource](https://www.youtube.com/shorts/RhUSHO9YGAo)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
