@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Figma Data for AI Coders #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/NkqflpTraVw)
+- [When Restarting Made Recovery Harder #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/FYC7yrIOItg)
+- [5.7K Star Runs-AI-Binary Instantly #shorts #ai #agents #selfhosted](https://www.youtube.com/shorts/erOtlZVzq_U)
 - [A Valid Setting Took Websites Down #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/JrVTQMJmL0g)
 - [Alibaba&#39;s MNN Repo Has 16k Stars #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/ybxmMHdgvKA)
-- [The Day Facebook Locked Itself Out #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/tTrk2hU7W6A)
-- [The Security Update Behind Cancelled Flights #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/7F4Ct_cKeW8)
-- [Knight Capital Got 97 Emails Before Losing $460M #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/VTaU27Kjd2o)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
