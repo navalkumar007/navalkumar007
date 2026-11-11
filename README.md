@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [9K Star SDK Enables AI Agent Creation In Minutes #shorts #ai #sdk #agents #plugin #automation](https://www.youtube.com/shorts/KYCFAqUWPGI)
 - [7K Star Repo Lets You Build AI Agents #shorts #ai #opensource #agents #routines #approvalworkflows](https://www.youtube.com/shorts/npXpPrvm_wg)
 - [OPENAICODE Turns 57K Star Model Into Apps | PrivateGPT API Layer #shorts #opensource #AI #API](https://www.youtube.com/shorts/2RC8jAgXxss)
 - [Deleted in Minutes, Restored Over Days #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/TGFijukq4zg)
 - [Figma Data for AI Coders #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/NkqflpTraVw)
-- [When Restarting Made Recovery Harder #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/FYC7yrIOItg)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
