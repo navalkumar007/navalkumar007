@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [26K Star Repo Replicates DeepSeek-R1 #shorts #openscience #deeplearning #reproducibility](https://www.youtube.com/shorts/yfcO4njDR-4)
 - [596 Star AI Agent Unified In 1 Repo #shorts #github #ai #code #security #leadership #development](https://www.youtube.com/shorts/MXzDUKAKf50)
 - [11K Star Repo Automates AI Colonies #shorts #python #ai #repository #colony #quickstart](https://www.youtube.com/shorts/IJPFDkgFbPc)
 - [Plannotator - One Local Window for All Your AI Agents #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/nhrCypuOvmA)
 - [9K Star SDK Enables AI Agent Creation In Minutes #shorts #ai #sdk #agents #plugin #automation](https://www.youtube.com/shorts/KYCFAqUWPGI)
-- [7K Star Repo Lets You Build AI Agents #shorts #ai #opensource #agents #routines #approvalworkflows](https://www.youtube.com/shorts/npXpPrvm_wg)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
