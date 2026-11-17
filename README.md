@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [29K Star Repo Gives Agents 415 New Skills #shorts #GitHub #AI #OpenSource #Programming](https://www.youtube.com/shorts/eJDIST1ARGQ)
 - [The Single Password Behind Colonial’s Pipeline Shutdown #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/_TGd7QYoNBE)
 - [29K-Star Repo Packs Your Codebase Into One AI-Ready File #shorts #code #ai #repo](https://www.youtube.com/shorts/Kh-C2q7t1Po)
 - [Spin Full Pentest System with 33k Star Repo in 1 Command #shorts #pentesting #docker #ai #security](https://www.youtube.com/shorts/n1yH2-cF3es)
 - [210K-Star Repo Drafts Gmail Replies and Pings Slack #shorts #n8n #workflow #automation #gmail](https://www.youtube.com/shorts/aUSyZqbRtB4)
-- [1.6K-Star Repo Catches Schematic Bugs Before You Spend #shorts #kicad #schematics #pcb #ai](https://www.youtube.com/shorts/YjfnagHxkuk)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
