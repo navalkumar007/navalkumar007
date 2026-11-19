@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [28K Star macOS App Organizes Tabs For Multitasking #shorts #macos #multitasking #swift](https://www.youtube.com/shorts/S3hGksZ7ZjA)
 - [27K Star App Converts Images To Editable Next.Js Pages #shorts #nextjs #onlook #generativeai](https://www.youtube.com/shorts/9riI_0Q2n9c)
 - [48K Stars For Local AI Graph #shorts #AI #CodeIntelligence #LocalAI #KnowledgeGraph #CBackend](https://www.youtube.com/shorts/3iz9uo4Q91Q)
 - [74K Star AI Pen Tester Stops Negative Pricing Flaws #shorts #AI #Pentesting #OpenSource #Security](https://www.youtube.com/shorts/f6JzwYrgr3A)
 - [NaSK: Two Open-Source AI Tools, Every Day](https://www.youtube.com/watch?v=99nPezt5MZo)
-- [Clone Any Website in 4 Steps with 38K Star Repo #shorts #AI #Automation #WebDevelopment #OpenSource](https://www.youtube.com/shorts/e4foZBXfR0M)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
