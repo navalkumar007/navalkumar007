@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [34K Star Repo Runs Claude Code and Codex Together #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/HsxyrhfEq2Q)
 - [30K Star Repo Auto-Tags Everything You Save #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/_FAzN2mbWeg)
 - [Equifax Sent People to a Lookalike Help Site #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/6lGF8tgQOE8)
 - [28K Star macOS App Organizes Tabs For Multitasking #shorts #macos #multitasking #swift](https://www.youtube.com/shorts/S3hGksZ7ZjA)
 - [27K Star App Converts Images To Editable Next.Js Pages #shorts #nextjs #onlook #generativeai](https://www.youtube.com/shorts/9riI_0Q2n9c)
-- [48K Stars For Local AI Graph #shorts #AI #CodeIntelligence #LocalAI #KnowledgeGraph #CBackend](https://www.youtube.com/shorts/3iz9uo4Q91Q)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
