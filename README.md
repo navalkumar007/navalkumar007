@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [1.6K Star Repo: Write Your Own AI Code Review Rules #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/48QaOwRO2BM)
 - [3K Star Repo Automates Social Media Workflows #shorts #AI #GitHub #SocialMedia](https://www.youtube.com/shorts/PuzkhfMlB3Y)
 - [25K Star Repo Packs Around 400 MCP Servers #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/mRoP0QTANAg)
 - [34K Star Repo Runs Claude Code and Codex Together #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/HsxyrhfEq2Q)
 - [30K Star Repo Auto-Tags Everything You Save #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/_FAzN2mbWeg)
-- [Equifax Sent People to a Lookalike Help Site #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/6lGF8tgQOE8)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
