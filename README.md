@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [The Twitter Bitcoin Giveaway Hack #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/ypqeqot-QvM)
+- [Point Your AI Agents to This 9k-Star Repo For Clarity #shorts #AI #GitHub #OpenSource #Programming](https://www.youtube.com/shorts/C5DEqGsWpeY)
 - [19K Star Repo: XERJ Runs AI Search on Four CPU Cores #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/rw5GAHsQgD8)
 - [Claude Code Extension Hacked with SSH Backdoor #shorts #AI #ClaudeCode #TechNews](https://www.youtube.com/shorts/7pJLCkcIm_M)
 - [1.6K Star Repo: Write Your Own AI Code Review Rules #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/48QaOwRO2BM)
-- [3K Star Repo Automates Social Media Workflows #shorts #AI #GitHub #SocialMedia](https://www.youtube.com/shorts/PuzkhfMlB3Y)
-- [25K Star Repo Packs Around 400 MCP Servers #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/mRoP0QTANAg)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
