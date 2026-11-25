@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Self-Host Receipt AI for Freelancers with 6863 Stars #shorts #freelance #smallbusiness #taxes #AI](https://www.youtube.com/shorts/LQwYaYRWklo)
+- [1K Star Repo Agentic Radar Tests Agents for PII Leaks #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/qUkjPhjt7sA)
 - [19.8K Star Repo AG-UI Plugs AI Agents Into Your App #shorts #AI #Integrations #SDK](https://www.youtube.com/shorts/fLGU7HN8-F0)
 - [6.2K Star Repo Raven Builds Whole Projects Alone #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/bERYMNeiBOk)
 - [The Twitter Bitcoin Giveaway Hack #shorts #TechStories #TechFails #Outage](https://www.youtube.com/shorts/ypqeqot-QvM)
-- [Point Your AI Agents to This 9k-Star Repo For Clarity #shorts #AI #GitHub #OpenSource #Programming](https://www.youtube.com/shorts/C5DEqGsWpeY)
-- [19K Star Repo: XERJ Runs AI Search on Four CPU Cores #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/rw5GAHsQgD8)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
