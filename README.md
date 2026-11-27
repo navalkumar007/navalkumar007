@@ -45,11 +45,11 @@ I am inquisitive by nature about all things technology. Creating content has alw
 
 ## 📺 My Videos:
 <!-- YOUTUBE:START-->
+- [Clone 11-Platform Bot Repo Today: Discord, Slack, WeChat #shorts #AI #LLMs #Bots #Discord #Slack](https://www.youtube.com/shorts/FN3ijQymhqw)
 - [1.2K Star Repo: IoT DC3 Connects Industrial Devices to AI #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/lu_Z9F8DHns)
 - [2.3K Star Repo Lets AI Agents Use Your Phone #shorts #AI #Automation #PinkysRepo](https://www.youtube.com/shorts/7IXOfu4C-HU)
 - [Self-Host Receipt AI for Freelancers with 6863 Stars #shorts #freelance #smallbusiness #taxes #AI](https://www.youtube.com/shorts/LQwYaYRWklo)
 - [1K Star Repo Agentic Radar Tests Agents for PII Leaks #shorts #AI #AITools #TechNews](https://www.youtube.com/shorts/qUkjPhjt7sA)
-- [19.8K Star Repo AG-UI Plugs AI Agents Into Your App #shorts #AI #Integrations #SDK](https://www.youtube.com/shorts/fLGU7HN8-F0)
 <!-- YOUTUBE:END-->
 
 ## 💻 Tech Stack:
